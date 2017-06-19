@@ -25,7 +25,7 @@ SECRET_KEY = '@ux^oxa!$l8ppb&pj%i=kkk$ts1fk9xx&ul&(!%&=%z78v9#hi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['frayz.pythonanywhere.com',]
 
 
 # Application definition
